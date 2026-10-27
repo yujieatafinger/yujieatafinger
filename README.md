@@ -3,13 +3,13 @@
 
 <p align="center"> <img width="540" height="12" alt="image" src="https://github.com/user-attachments/assets/e0ac9b97-a924-449d-b42b-c7ce4a8f547a" />
 
-<p align="center"> $\color{#ffe0de}{\text{hello (｡•ᴗ•｡)}}$ 
+<p align="center"> $\color{#ffdee2}{\text{hello (｡•ᴗ•｡)}}$ 
 
-<p align="center"> $\color{#ffe0de}{\text{im a yuji kinnie (´ ∀ ` *)
+<p align="center"> $\color{#ffdee2}{\text{im a yuji kinnie (´ ∀ ` *)
 }}$
-<p align="center"> $\color{#ffe0de}{\text{introverted sumthinsumthin... idk 6w5
+<p align="center"> $\color{#ffdee2}{\text{introverted sumthinsumthin... idk 6w5
 }}$
-<p align="center"> $\color{#ffe0de}{\text{15yo ⸜( *ˊᵕˋ* )⸝
+<p align="center"> $\color{#ffdee2}{\text{15yo ⸜( *ˊᵕˋ* )⸝
 }}$ 
  
-<p align="center"> $\color{#ffe0de}{\text{i dont speak unless spoken to 99\% of the time (・・;)}}$
+<p align="center"> $\color{#ffdee2}{\text{i dont speak unless spoken to 99\% of the time (・・;)}}$
