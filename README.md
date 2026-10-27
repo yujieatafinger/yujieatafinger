@@ -1,12 +1,12 @@
-text-align: center; <img width="220" height="220" alt="yuji gif" src="https://github.com/user-attachments/assets/1f99c168-e28f-4442-a051-d5e94adf386e" />
+<p align="center"> <img width="220" height="220" alt="yuji gif" src="https://github.com/user-attachments/assets/1f99c168-e28f-4442-a051-d5e94adf386e" />
 
-text-align: center; hello (｡•ᴗ•｡)
+hello (｡•ᴗ•｡)
 
-text-align: center; im a yuji kinnie (´ ∀ ` *)
+im a yuji kinnie (´ ∀ ` *)
 
-text-align: center; introverted sumthinsumthin... idk 6w5
+introverted sumthinsumthin... idk 6w5
 
-text-align: center; 15yo ⸜( *ˊᵕˋ* )⸝
+15yo ⸜( *ˊᵕˋ* )⸝ </p>
 <!--
 **yujieatafinger/yujieatafinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
