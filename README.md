@@ -1,5 +1,5 @@
-<p align="center"> <img width="400" height="400" alt="left wing" src="https://github.com/user-attachments/assets/919cf9af-07e4-42a9-b79a-05df679bc021" />
- <img width="220" height="220" alt="yuji gif" src="https://github.com/user-attachments/assets/1f99c168-e28f-4442-a051-d5e94adf386e" /> <img width="400" height="400" alt="right wing" src="https://github.com/user-attachments/assets/a27a6b14-ac32-4f56-a0de-ed4bebcce765" />
+<p align="center"> <img width="100" height="100" alt="left wing" src="https://github.com/user-attachments/assets/919cf9af-07e4-42a9-b79a-05df679bc021" />
+ <img width="220" height="220" alt="yuji gif" src="https://github.com/user-attachments/assets/1f99c168-e28f-4442-a051-d5e94adf386e" /> <img width="100" height="100" alt="right wing" src="https://github.com/user-attachments/assets/a27a6b14-ac32-4f56-a0de-ed4bebcce765" />
 
 <p align="center"> <img width="440" height="12" alt="image" src="https://github.com/user-attachments/assets/e0ac9b97-a924-449d-b42b-c7ce4a8f547a" />
 
