@@ -5,10 +5,14 @@
 
 <p align="center"> $\color{#fc9088}{\text{hello (｡•ᴗ•｡)}}$ 
 
-<p align="center"> im a yuji kinnie (´ ∀ ` *)
-
-<p align="center"> introverted sumthinsumthin... idk 6w5
-
-<p align="center"> 15yo ⸜( *ˊᵕˋ* )⸝
+<p align="center"> $\color{#fc9088}{\text{im a yuji kinnie (´ ∀ ` *)
+}}$
+<p align="center"> $\color{#fc9088}{\text{introverted sumthinsumthin... idk 6w5
+}}$
+<p align="center"> $\color{#fc9088}{\text{15yo ⸜( *ˊᵕˋ* )⸝
+}}$ 
  
-<p align="center"> i dont speak unless spoken to 99% of the time (・・;)
+<p align="center"> $\color{#fc9088}{\text{i dont speak unless spoken to 99% of the time (・・;)
+}}$
+ 
+**$\color{#fc9088}{\text{hey}}$**
