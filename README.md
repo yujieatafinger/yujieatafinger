@@ -3,7 +3,7 @@
 
 <p align="center"> <img width="540" height="12" alt="image" src="https://github.com/user-attachments/assets/e0ac9b97-a924-449d-b42b-c7ce4a8f547a" />
 
-<p align="center"> hello (｡•ᴗ•｡)
+<p align="center"> $\color{#fc9088}{\text{hello (｡•ᴗ•｡)}$ 
 
 <p align="center"> im a yuji kinnie (´ ∀ ` *)
 
