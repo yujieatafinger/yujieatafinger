@@ -7,9 +7,10 @@
 
 <p align="center"> $\color{#ffdee2}{\text{im a yuji kinnie (´ ∀ ` *)
 }}$
-<p align="center"> $\color{#ffdee2}{\text{introverted sumthinsumthin... idk 6w5
-}}$
-<p align="center"> $\color{#ffdee2}{\text{15yo ⸜( *ˊᵕˋ* )⸝
-}}$ 
+<p align="center"> $\color{#ffdee2}{\text{introverted sumthinsumthin... idk 6w5}}$
+ 
+<p align="center"> $\color{#ffdee2}{\text{15yo ⸜( *ˊᵕˋ* )⸝}}$ 
+
+<p align="center"> $\color{#ffdee2}{\text{ummmm i have audhd}}$ 
  
 <p align="center"> $\color{#ffdee2}{\text{i dont speak unless spoken to 99\% of the time (・・;)}}$
