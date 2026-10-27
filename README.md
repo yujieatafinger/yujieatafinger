@@ -7,7 +7,7 @@
 <p align="center"> introverted sumthinsumthin... idk 6w5
 
 <p align="center"> 15yo ⸜( *ˊᵕˋ* )⸝
-<p align="center"> <img width="640" height="106" alt="pink stars" src="https://github.com/user-attachments/assets/cc484a43-25fd-4788-af09-0fa03e16c97a" />
+<p align="center"> <img width="640" height="56" alt="pink stars" src="https://github.com/user-attachments/assets/cc484a43-25fd-4788-af09-0fa03e16c97a" />
 <!--
 **yujieatafinger/yujieatafinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
