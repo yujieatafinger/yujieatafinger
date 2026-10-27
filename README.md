@@ -1,4 +1,4 @@
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/1ddfb1ce-720f-4e70-9c9e-768c2e2d0652" />
+<img width="220" height="220" alt="yuji gif" src="https://github.com/user-attachments/assets/1f99c168-e28f-4442-a051-d5e94adf386e" />
 
 hello (｡•ᴗ•｡)
 
