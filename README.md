@@ -1,7 +1,12 @@
-## Hi there 👋
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/1ddfb1ce-720f-4e70-9c9e-768c2e2d0652" />
 
-licklicklick
+hello (｡•ᴗ•｡)
 
+im a yuji kinnie (´ ∀ ` *)
+
+introverted sumthinsumthin... idk 6w5
+
+15yo ⸜( *ˊᵕˋ* )⸝
 <!--
 **yujieatafinger/yujieatafinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
