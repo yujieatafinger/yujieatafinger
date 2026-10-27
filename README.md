@@ -12,7 +12,4 @@
 <p align="center"> $\color{#fc9088}{\text{15yo ⸜( *ˊᵕˋ* )⸝
 }}$ 
  
-<p align="center"> $\color{#fc9088}{\text{i dont speak unless spoken to 99% of the time (・・;)
-}}$
- 
-**$\color{#fc9088}{\text{hey}}$**
+<p align="center"> $\color{#fc9088}{\text{i dont speak unless spoken to 99% of the time (・・;)}}$
