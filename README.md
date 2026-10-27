@@ -6,7 +6,7 @@
 
 <p align="center"> introverted sumthinsumthin... idk 6w5
 
-<p align="center"> 15yo ⸜( *ˊᵕˋ* )⸝ </p>
+<p align="center"> 15yo ⸜( *ˊᵕˋ* )⸝
 <!--
 **yujieatafinger/yujieatafinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
